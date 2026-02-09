@@ -3,7 +3,7 @@ Linkiba — Event Services Directory &amp; Marketplace (Cameroon &amp; Diaspora)
 
 
 Linkiba centralizes **category-based search**, **professional listings**, **reviews/testimonials**, and **direct messaging/contact** to reduce planning time and improve trust—especially for users organizing events remotely.  
-Tech stack: **PHP, JavaScript, CSS, Bootstrap, jQuery**. Website: [[https://www.linkiba.com](https://www.linkiba.com)
+Tech stack: **PHP, JavaScript, CSS, Bootstrap, jQuery**. Website: [https://www.linkiba.com](https://www.linkiba.com)
 
 ### Key features delivered
 - **Professional directory** with detailed provider profiles (services, location, description)
